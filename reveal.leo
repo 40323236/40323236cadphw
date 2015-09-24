@@ -276,7 +276,9 @@
 <v t=".20150924202110.1"><vh>第一頁</vh></v>
 <v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
 <v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
+<v t=".20150924231706.1"><vh>@auto ..\..\..\..\reveal.leo.html</vh></v>
 <v t="ibm.20150918175711.1"><vh>Git 操作</vh></v>
+<v t=".20150924231612.1"><vh>@auto ..\..\..\..\simplest.html</vh></v>
 <v t="ibm.20150918175951.1"><vh>Jupyter 操作</vh></v>
 <v t="ibm.20150918181528.1"><vh>結論</vh></v>
 </v>
@@ -518,7 +520,7 @@ Diff...
   &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
   &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
   &lt;section&gt;
--     &lt;h1&gt;計算機程式&lt;/h1&gt;
+-     &lt;h1&gt;計式&lt;/h1&gt;
 -     &lt;p&gt;第1週教學內容&lt;/p&gt;		
 +     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
 +     &lt;p&gt;40323236&lt;/p&gt;		
