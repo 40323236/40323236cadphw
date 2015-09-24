@@ -28,6 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
+<v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
 <v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
@@ -37,6 +38,7 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -264,7 +266,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -491,10 +493,6 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="amd.20150913232627.2">@language xml
-@tabwidth -4
-@others
-</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1987,9 +1985,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
 	&lt;![endif]--&gt;
 &lt;/head&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-&lt;/html&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
@@ -2147,6 +2142,13 @@ import os
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
 ''')
 g.es("pelican 執行完畢")</t>
+<t tx="amd.20150920030003.1">必須使用 IPython 3.2.1
+
+sudo pip3 install IPython[notebook]==3.2.1
+
+因為 IPython 4.0 已經將 IPython notebook 分出去改名為 Jupyter
+
+之後可能再測試 liquid_tags 是否能與 Jupyter 相容</t>
 <t tx="ibm.20150918175403.1">@language xml
 @tabwidth -4
 @others
