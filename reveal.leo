@@ -41,7 +41,7 @@
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
@@ -66,7 +66,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -266,13 +266,14 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
 <v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
 <v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
-<v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
+<v t="ibm.20150918175403.7"><vh>40323236</vh></v>
+<v t=".20150924202110.1"><vh>第一頁</vh></v>
 <v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
 <v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
 <v t="ibm.20150918175711.1"><vh>Git 操作</vh></v>
@@ -493,6 +494,14 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx=".20150924202110.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
+&lt;/section&gt;
+	</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -2201,8 +2210,8 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;p&gt;40323236&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
 <t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
