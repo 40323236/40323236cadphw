@@ -493,9 +493,64 @@
 </v>
 </v>
 </v>
+<v t=".20150924231104.2" a="E"><vh>Recovered Nodes</vh>
+<v t=".20150924231104.3"><vh>Recovered node "40323236" from @clean cpw1.html</vh>
+<v t=".20150924231104.4"><vh>old:40323236</vh></v>
+<v t=".20150924231104.5"><vh>new:40323236</vh></v>
+</v>
+<v t=".20150924231104.6"><vh>Recovered node "第一頁" from @clean cpw1.html</vh>
+<v t=".20150924231104.7"><vh>old:第一頁</vh></v>
+<v t=".20150924231104.8"><vh>new:第一頁</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
-<t tx=".20150924202110.1">&lt;!-- 以下為投影片 --&gt;
+<t tx=".20150924202110.1">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20150924231104.2"></t>
+<t tx=".20150924231104.3">(uncached) ibm.20150918175403.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+-     &lt;h1&gt;計算機程式&lt;/h1&gt;
+-     &lt;p&gt;第1週教學內容&lt;/p&gt;		
++     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
++     &lt;p&gt;40323236&lt;/p&gt;		
++ &lt;/section&gt;
++ 	</t>
+<t tx=".20150924231104.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;p&gt;40323236&lt;/p&gt;		
+&lt;/section&gt;
+	</t>
+<t tx=".20150924231104.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;計算機程式&lt;/h1&gt;
+    &lt;p&gt;第1週教學內容&lt;/p&gt;		
+</t>
+<t tx=".20150924231104.6">(uncached) .20150924202110.1
+Diff...
++ &lt;!-- 以下為投影片 --&gt;
++ &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
++ &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
++ &lt;section&gt;
++     &lt;h1&gt;自評&lt;/h1&gt;
++     &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
+  &lt;/section&gt;
+- 	
++ 	</t>
+<t tx=".20150924231104.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -503,6 +558,9 @@
     &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
+<t tx=".20150924231104.8">&lt;/section&gt;
+	
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1998,8 +2056,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -2031,14 +2089,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2170,7 +2229,8 @@ sudo pip3 install IPython[notebook]==3.2.1
     Reveal.initialize({
     });
 &lt;/script&gt;
-	</t>
+	
+</t>
 <t tx="ibm.20150918175403.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2191,7 +2251,8 @@ sudo pip3 install IPython[notebook]==3.2.1
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="ibm.20150918175403.4">&lt;body&gt;
 @others
 &lt;/body&gt;
@@ -2213,19 +2274,22 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
     &lt;p&gt;40323236&lt;/p&gt;		
 &lt;/section&gt;
-	</t>
+		
+</t>
 <t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;課程規劃&lt;/h1&gt;
     &lt;p&gt;教科書&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
 &lt;/section&gt;
-				</t>
+				
+</t>
 <t tx="ibm.20150918175403.9">&lt;section&gt;
     &lt;h1&gt;作業規劃&lt;/h1&gt;
     &lt;p&gt;影片內容&lt;/p&gt;
     &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
 &lt;/section&gt;
-				</t>
+				
+</t>
 <t tx="ibm.20150918175711.1">&lt;section&gt;
     &lt;h1&gt;Git 操作&lt;/h1&gt;
     &lt;p&gt;git clone&lt;/p&gt;
@@ -2234,17 +2298,20 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;git add -A&lt;/p&gt;
     &lt;p&gt;git commit -m&lt;/p&gt;
     &lt;p&gt;git push&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="ibm.20150918175951.1">&lt;section&gt;
     &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
     &lt;p&gt;啟動&lt;/p&gt;
     &lt;p&gt;基本執行&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="ibm.20150918181528.1">&lt;section&gt;
     &lt;h1&gt;結論&lt;/h1&gt;
     &lt;p&gt;自主開放學習&lt;/p&gt;
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
