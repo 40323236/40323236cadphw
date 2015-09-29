@@ -2934,7 +2934,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;四設計二乙 許紘瑜&lt;/h2&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
     &lt;p&gt;40323236 許紘瑜&lt;/p&gt;		
 &lt;/section&gt;
 	
