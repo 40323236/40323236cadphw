@@ -276,7 +276,9 @@
 <v t=".20150924202110.1"><vh>第一頁</vh></v>
 <v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
 <v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
+<v t=".20150924231706.1"><vh>@auto ..\..\..\..\reveal.leo.html</vh></v>
 <v t="ibm.20150918175711.1"><vh>Git 操作</vh></v>
+<v t=".20150924231612.1"><vh>@auto ..\..\..\..\simplest.html</vh></v>
 <v t="ibm.20150918175951.1"><vh>Jupyter 操作</vh></v>
 <v t="ibm.20150918181528.1"><vh>結論</vh></v>
 </v>
@@ -287,6 +289,7 @@
 </v>
 <v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
+<v t=".20150924230405.1"><vh>@auto simplest.html</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
@@ -492,9 +495,116 @@
 </v>
 </v>
 </v>
+<v t=".20150924231104.2" a="E"><vh>Recovered Nodes</vh>
+<v t=".20150924231104.3"><vh>Recovered node "40323236" from @clean cpw1.html</vh>
+<v t=".20150924231104.4"><vh>old:40323236</vh></v>
+<v t=".20150924231104.5"><vh>new:40323236</vh></v>
+</v>
+<v t=".20150924231104.6"><vh>Recovered node "第一頁" from @clean cpw1.html</vh>
+<v t=".20150924231104.7"><vh>old:第一頁</vh></v>
+<v t=".20150924231104.8"><vh>new:第一頁</vh></v>
+</v>
+</v>
+<v t="40323236.20150929100836.1" a="E"><vh>Recovered Nodes</vh>
+<v t="40323236.20150929100836.2"><vh>Recovered node "body 標註" from @clean cpw1.html</vh>
+<v t="40323236.20150929100836.3"><vh>old:body 標註</vh></v>
+<v t="40323236.20150929100836.4"><vh>new:body 標註</vh></v>
+</v>
+<v t="40323236.20150929100836.5"><vh>Recovered node "作業規劃" from @clean cpw1.html</vh>
+<v t="40323236.20150929100836.6"><vh>old:作業規劃</vh></v>
+<v t="40323236.20150929100836.7"><vh>new:作業規劃</vh></v>
+</v>
+<v t="40323236.20150929100836.8"><vh>Recovered node "Jupyter 操作" from @clean cpw1.html</vh>
+<v t="40323236.20150929100836.9"><vh>old:Jupyter 操作</vh></v>
+<v t="40323236.20150929100836.10"><vh>new:Jupyter 操作</vh></v>
+</v>
+<v t="40323236.20150929100836.11"><vh>Recovered node "結論" from @clean cpw1.html</vh>
+<v t="40323236.20150929100836.12"><vh>old:結論</vh></v>
+<v t="40323236.20150929100836.13"><vh>new:結論</vh></v>
+</v>
+</v>
+<v t="40323236.20150929101618.2" a="E"><vh>Recovered Nodes</vh>
+<v t="40323236.20150929101618.3"><vh>Recovered node "body 標註" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.4"><vh>old:body 標註</vh></v>
+<v t="40323236.20150929101618.5"><vh>new:body 標註</vh></v>
+</v>
+<v t="40323236.20150929101618.6"><vh>Recovered node "div class="reveal"" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.7"><vh>old:div class="reveal"</vh></v>
+<v t="40323236.20150929101618.8"><vh>new:div class="reveal"</vh></v>
+</v>
+<v t="40323236.20150929101618.9"><vh>Recovered node "div class="slides"" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.10"><vh>old:div class="slides"</vh></v>
+<v t="40323236.20150929101618.11"><vh>new:div class="slides"</vh></v>
+</v>
+<v t="40323236.20150929101618.12"><vh>Recovered node "40323236" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.13"><vh>old:40323236</vh></v>
+<v t="40323236.20150929101618.14"><vh>new:40323236</vh></v>
+</v>
+<v t="40323236.20150929101618.15"><vh>Recovered node "作業規劃" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.16"><vh>old:作業規劃</vh></v>
+<v t="40323236.20150929101618.17"><vh>new:作業規劃</vh></v>
+</v>
+<v t="40323236.20150929101618.18"><vh>Recovered node "Jupyter 操作" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.19"><vh>old:Jupyter 操作</vh></v>
+<v t="40323236.20150929101618.20"><vh>new:Jupyter 操作</vh></v>
+</v>
+<v t="40323236.20150929101618.21"><vh>Recovered node "結論" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.22"><vh>old:結論</vh></v>
+<v t="40323236.20150929101618.23"><vh>new:結論</vh></v>
+</v>
+<v t="40323236.20150929101618.24"><vh>Recovered node "script" from @clean cpw1.html</vh>
+<v t="40323236.20150929101618.25"><vh>old:script</vh></v>
+<v t="40323236.20150929101618.26"><vh>new:script</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
-<t tx=".20150924202110.1">&lt;!-- 以下為投影片 --&gt;
+<t tx=".20150924202110.1">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx=".20150924231104.2"></t>
+<t tx=".20150924231104.3">(uncached) ibm.20150918175403.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+-     &lt;h1&gt;計式&lt;/h1&gt;
+-     &lt;p&gt;第1週教學內容&lt;/p&gt;		
++     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
++     &lt;p&gt;40323236&lt;/p&gt;		
++ &lt;/section&gt;
++ 	</t>
+<t tx=".20150924231104.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;p&gt;40323236&lt;/p&gt;		
+&lt;/section&gt;
+	</t>
+<t tx=".20150924231104.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;計算機程式&lt;/h1&gt;
+    &lt;p&gt;第1週教學內容&lt;/p&gt;		
+</t>
+<t tx=".20150924231104.6">(uncached) .20150924202110.1
+Diff...
++ &lt;!-- 以下為投影片 --&gt;
++ &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
++ &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
++ &lt;section&gt;
++     &lt;h1&gt;自評&lt;/h1&gt;
++     &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
+  &lt;/section&gt;
+- 	
++ 	</t>
+<t tx=".20150924231104.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -502,6 +612,800 @@
     &lt;p&gt;自評分數為：60分。這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
+<t tx=".20150924231104.8">&lt;/section&gt;
+	
+</t>
+<t tx="40323236.20150929100836.1"></t>
+<t tx="40323236.20150929100836.10">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+</t>
+<t tx="40323236.20150929100836.11">(uncached) ibm.20150918181528.1
+Diff...
+- --&gt;
+- &lt;!doctype html&gt;
+- &lt;html lang="en"&gt;
+- &lt;head&gt;
+- 
+- &lt;meta charset="utf-8"&gt;
+- &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+- &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+- 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+- 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+- 	&lt;!--[if lt IE 9]&gt;
+- 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+- 	&lt;![endif]--&gt;
+- &lt;/head&gt;
+- &lt;body&gt;
+- 
+- &lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+- &lt;div class="reveal"&gt;
+- 
+- &lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+- &lt;div class="slides"&gt;
+- 
+- &lt;!-- 以下為投影片 --&gt;
+- &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+- &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+-     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+-     
+- &lt;p&gt;學號姓名與日期&lt;/p&gt;		
++     &lt;h1&gt;結論&lt;/h1&gt;
++     &lt;p&gt;自主開放學習&lt;/p&gt;
++     &lt;p&gt;線上教材&lt;/p&gt;
++     &lt;p&gt;影音教材&lt;/p&gt;
+  &lt;/section&gt;
+- 	
+- &lt;section id="hw-task-one"&gt;
+-     
+- &lt;h1&gt;心得&lt;/h1&gt;
+-     
+- &lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+- &lt;/section&gt;
+- 				
+- &lt;section&gt;
+-     
+- &lt;h1&gt;自評&lt;/h1&gt;
+-     
+- &lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+-     
+- &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+- &lt;/section&gt;
+- 				
+</t>
+<t tx="40323236.20150929100836.12">&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;自主開放學習&lt;/p&gt;
+    &lt;p&gt;線上教材&lt;/p&gt;
+    &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="40323236.20150929100836.13">--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    
+&lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    
+&lt;h1&gt;心得&lt;/h1&gt;
+    
+&lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    
+&lt;h1&gt;自評&lt;/h1&gt;
+    
+&lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+    
+&lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323236.20150929100836.2">(uncached) ibm.20150918175403.4
+Diff...
+  &lt;body&gt;
+  @others
+  &lt;/body&gt;
+- 
+- 
+- &lt;section&gt;
+-     &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+-     &lt;p&gt;啟動&lt;/p&gt;
+-     &lt;p&gt;基本執行&lt;/p&gt;
+- &lt;/section&gt;
+- &lt;section&gt;
+-     &lt;h1&gt;結論&lt;/h1&gt;
+-     &lt;p&gt;自主開放學習&lt;/p&gt;
+-     &lt;p&gt;線上教材&lt;/p&gt;
+-     &lt;p&gt;影音教材&lt;/p&gt;
+- &lt;/section&gt;
+- &lt;/div&gt;
+- &lt;/div&gt;
+- &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+- &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+- &lt;script&gt;
+-     // 啟動 Reveal.
+-     Reveal.initialize({
+-     });
+- &lt;/script&gt;
+- 	
+- &lt;/body&gt;
+</t>
+<t tx="40323236.20150929100836.3">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323236.20150929100836.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+    &lt;p&gt;啟動&lt;/p&gt;
+    &lt;p&gt;基本執行&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;自主開放學習&lt;/p&gt;
+    &lt;p&gt;線上教材&lt;/p&gt;
+    &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="40323236.20150929100836.5">(uncached) ibm.20150918175403.9
+Diff...
+  &lt;section&gt;
+      &lt;h1&gt;作業規劃&lt;/h1&gt;
+      &lt;p&gt;影片內容&lt;/p&gt;
+      &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+  &lt;/section&gt;
+  				
+- &lt;!--
+- 這個檔案展示了 reveal.js 投影片資料的基本架構
+- 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+- 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+- 且支援平行與垂直的投影片配置方法
+- --&gt;
+- &lt;!doctype html&gt;
+- &lt;html lang="en"&gt;
+- &lt;head&gt;
+- 
+- &lt;meta charset="utf-8"&gt;
+- &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+- &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+- 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+- 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+- 	&lt;!--[if lt IE 9]&gt;
+- 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+- 	&lt;![endif]--&gt;
+- &lt;/head&gt;
+- &lt;body&gt;
+- 
+- &lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+- &lt;div class="reveal"&gt;
+- 
+- &lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+- &lt;div class="slides"&gt;
+- 
+- &lt;!-- 以下為投影片 --&gt;
+- &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+- &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+- &lt;section&gt;
+-     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+-     
+- &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+- &lt;/section&gt;
+- 	
+- &lt;section id="hw-task-one"&gt;
+-     
+- &lt;h1&gt;心得&lt;/h1&gt;
+-     
+- &lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+- &lt;/section&gt;
+- 				
+- &lt;section&gt;
+-     
+- &lt;h1&gt;自評&lt;/h1&gt;
+-     
+- &lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+-     
+- &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+- &lt;/section&gt;
+- 				
+- &lt;/div&gt;
+- &lt;/div&gt;
+- &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+- &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+- &lt;script&gt;
+-     // 啟動 Reveal.
+-     Reveal.initialize({
+-     });
+- &lt;/script&gt;
+- 	
+- &lt;/body&gt;
+- 
+- 
+</t>
+<t tx="40323236.20150929100836.6">&lt;section&gt;
+    &lt;h1&gt;作業規劃&lt;/h1&gt;
+    &lt;p&gt;影片內容&lt;/p&gt;
+    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323236.20150929100836.7">&lt;section&gt;
+    &lt;h1&gt;作業規劃&lt;/h1&gt;
+    &lt;p&gt;影片內容&lt;/p&gt;
+    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    
+&lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    
+&lt;h1&gt;心得&lt;/h1&gt;
+    
+&lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    
+&lt;h1&gt;自評&lt;/h1&gt;
+    
+&lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+    
+&lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+
+</t>
+<t tx="40323236.20150929100836.8">(uncached) ibm.20150918175951.1
+Diff...
+- &lt;!--
+- 這個檔案展示了 reveal.js 投影片資料的基本架構
+- 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+- 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+- 且支援平行與垂直的投影片配置方法
++ &lt;section&gt;
++     &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
++     &lt;p&gt;啟動&lt;/p&gt;
++     &lt;p&gt;基本執行&lt;/p&gt;
++ &lt;/section&gt;
+</t>
+<t tx="40323236.20150929100836.9">&lt;section&gt;
+    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+    &lt;p&gt;啟動&lt;/p&gt;
+    &lt;p&gt;基本執行&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="40323236.20150929101618.10">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323236.20150929101618.11">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+</t>
+<t tx="40323236.20150929101618.12">(uncached) ibm.20150918175403.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+  &lt;section&gt;
+      &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+      &lt;p&gt;40323236&lt;/p&gt;		
+  &lt;/section&gt;
+- 	
++ 		
+? +
+- &lt;!-- 以下為投影片 --&gt;
+- &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+- &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+</t>
+<t tx="40323236.20150929101618.13">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;p&gt;40323236&lt;/p&gt;		
+&lt;/section&gt;
+		
+</t>
+<t tx="40323236.20150929101618.14">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;p&gt;40323236&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+</t>
+<t tx="40323236.20150929101618.15">(uncached) ibm.20150918175403.9
+Diff...
+  &lt;section&gt;
+      &lt;h1&gt;作業規劃&lt;/h1&gt;
+      &lt;p&gt;影片內容&lt;/p&gt;
+      &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+  &lt;/section&gt;
+  				
++ &lt;!--
++ 這個檔案展示了 reveal.js 投影片資料的基本架構
++ 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
++ 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
++ 且支援平行與垂直的投影片配置方法
++ --&gt;
++ &lt;!doctype html&gt;
++ &lt;html lang="en"&gt;
++ &lt;head&gt;
++ 
++ &lt;meta charset="utf-8"&gt;
++ &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
++ &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
++ 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
++ 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
++ 	&lt;!--[if lt IE 9]&gt;
++ 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
++ 	&lt;![endif]--&gt;
++ &lt;/head&gt;
++ &lt;body&gt;
++ 
++ &lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
++ &lt;div class="reveal"&gt;
++ 
++ &lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
++ &lt;div class="slides"&gt;
++ 
++ &lt;!-- 以下為投影片 --&gt;
++ &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
++ &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
++ &lt;section&gt;
++     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
++     
++ &lt;p&gt;學號姓名與日期&lt;/p&gt;		
++ &lt;/section&gt;
++ 	
++ &lt;section id="hw-task-one"&gt;
++     
++ &lt;h1&gt;心得&lt;/h1&gt;
++     
++ &lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
++ &lt;/section&gt;
++ 				
++ &lt;section&gt;
++     
++ &lt;h1&gt;自評&lt;/h1&gt;
++     
++ &lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
++     
++ &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
++ &lt;/section&gt;
++ 				
++ &lt;/div&gt;
++ &lt;/div&gt;
++ &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
++ &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
++ &lt;script&gt;
++     // 啟動 Reveal.
++     Reveal.initialize({
++     });
++ &lt;/script&gt;
++ 	
++ &lt;/body&gt;
++ 
++ 
+</t>
+<t tx="40323236.20150929101618.16">&lt;section&gt;
+    &lt;h1&gt;作業規劃&lt;/h1&gt;
+    &lt;p&gt;影片內容&lt;/p&gt;
+    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    
+&lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    
+&lt;h1&gt;心得&lt;/h1&gt;
+    
+&lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    
+&lt;h1&gt;自評&lt;/h1&gt;
+    
+&lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+    
+&lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+
+</t>
+<t tx="40323236.20150929101618.17">&lt;section&gt;
+    &lt;h1&gt;作業規劃&lt;/h1&gt;
+    &lt;p&gt;影片內容&lt;/p&gt;
+    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323236.20150929101618.18">(uncached) ibm.20150918175951.1
+Diff...
++ &lt;!--
++ 這個檔案展示了 reveal.js 投影片資料的基本架構
++ 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
++ 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
++ 且支援平行與垂直的投影片配置方法
+</t>
+<t tx="40323236.20150929101618.19">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+</t>
+<t tx="40323236.20150929101618.2"></t>
+<t tx="40323236.20150929101618.20"></t>
+<t tx="40323236.20150929101618.21">(uncached) ibm.20150918181528.1
+Diff...
++ --&gt;
++ &lt;!doctype html&gt;
++ &lt;html lang="en"&gt;
++ &lt;head&gt;
++ 
++ &lt;meta charset="utf-8"&gt;
++ &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
++ &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
++ 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
++ 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
++ 	&lt;!--[if lt IE 9]&gt;
++ 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
++ 	&lt;![endif]--&gt;
++ &lt;/head&gt;
++ &lt;body&gt;
++ 
++ &lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
++ &lt;div class="reveal"&gt;
++ 
++ &lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
++ &lt;div class="slides"&gt;
++ 
++ &lt;!-- 以下為投影片 --&gt;
++ &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
++ &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
++ &lt;section&gt;
++     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
++     
++ &lt;p&gt;學號姓名與日期&lt;/p&gt;		
++ &lt;/section&gt;
++ 	
++ &lt;section id="hw-task-one"&gt;
++     
++ &lt;h1&gt;心得&lt;/h1&gt;
++     
++ &lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
++ &lt;/section&gt;
++ 				
++ &lt;section&gt;
++     
++ &lt;h1&gt;自評&lt;/h1&gt;
++     
++ &lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
++     
++ &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
++ &lt;/section&gt;
++ 				
+</t>
+<t tx="40323236.20150929101618.22">--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    
+&lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    
+&lt;h1&gt;心得&lt;/h1&gt;
+    
+&lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    
+&lt;h1&gt;自評&lt;/h1&gt;
+    
+&lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
+    
+&lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323236.20150929101618.23"></t>
+<t tx="40323236.20150929101618.24">(uncached) ibm.20150918175403.10
+Diff...
++ &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
++ &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
++ &lt;script&gt;
++     // 啟動 Reveal.
++     Reveal.initialize({
++     });
++ &lt;/script&gt;
++ 	
+</t>
+<t tx="40323236.20150929101618.25">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323236.20150929101618.26"></t>
+<t tx="40323236.20150929101618.3">(uncached) ibm.20150918175403.4
+Diff...
+  &lt;body&gt;
+  @others
++ &lt;/body&gt;
++ 
++ 
+  &lt;section&gt;
+      &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+      &lt;p&gt;啟動&lt;/p&gt;
+      &lt;p&gt;基本執行&lt;/p&gt;
+  &lt;/section&gt;
+  &lt;section&gt;
+      &lt;h1&gt;結論&lt;/h1&gt;
+      &lt;p&gt;自主開放學習&lt;/p&gt;
+      &lt;p&gt;線上教材&lt;/p&gt;
+      &lt;p&gt;影音教材&lt;/p&gt;
+  &lt;/section&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+  &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+  &lt;script&gt;
+      // 啟動 Reveal.
+      Reveal.initialize({
+      });
+  &lt;/script&gt;
+  	
+  &lt;/body&gt;
+</t>
+<t tx="40323236.20150929101618.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+    &lt;p&gt;啟動&lt;/p&gt;
+    &lt;p&gt;基本執行&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;自主開放學習&lt;/p&gt;
+    &lt;p&gt;線上教材&lt;/p&gt;
+    &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="40323236.20150929101618.5">&lt;body&gt;
+@others
+&lt;section&gt;
+    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+    &lt;p&gt;啟動&lt;/p&gt;
+    &lt;p&gt;基本執行&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;自主開放學習&lt;/p&gt;
+    &lt;p&gt;線上教材&lt;/p&gt;
+    &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="40323236.20150929101618.6">(uncached) ibm.20150918175403.5
+Diff...
+  &lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+  &lt;div class="reveal"&gt;
+  @others
++ &lt;/div&gt;
+</t>
+<t tx="40323236.20150929101618.7">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323236.20150929101618.8">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+</t>
+<t tx="40323236.20150929101618.9">(uncached) ibm.20150918175403.6
+Diff...
+  &lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+  &lt;div class="slides"&gt;
+  @others
++ &lt;/div&gt;
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1997,9 +2901,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;h2&gt;自評&lt;/h2&gt;
     &lt;p&gt;60 我請了很多人的幫助 &lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -2030,13 +2934,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
+    &lt;h2&gt;四設計二乙 許紘瑜&lt;/h2&gt;
     &lt;p&gt;學號姓名與日期&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
     &lt;p&gt;這學期的課程特別的難懂，推來推去的看都看不懂，希望上課可以講慢一點!&lt;/p&gt;
 &lt;/section&gt;
 				
@@ -2162,14 +3066,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 @others
 
 </t>
-<t tx="ibm.20150918175403.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	</t>
+<t tx="ibm.20150918175403.10"></t>
 <t tx="ibm.20150918175403.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2190,20 +3087,40 @@ sudo pip3 install IPython[notebook]==3.2.1
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="ibm.20150918175403.4">&lt;body&gt;
 @others
+&lt;section&gt;
+    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
+    &lt;p&gt;啟動&lt;/p&gt;
+    &lt;p&gt;基本執行&lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;自主開放學習&lt;/p&gt;
+    &lt;p&gt;線上教材&lt;/p&gt;
+    &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
 &lt;/body&gt;
 </t>
 <t tx="ibm.20150918175403.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
-&lt;/div&gt;
 </t>
 <t tx="ibm.20150918175403.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
-&lt;/div&gt;
 </t>
 <t tx="ibm.20150918175403.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
@@ -2212,19 +3129,25 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;h1&gt;四設計二乙 許紘瑜&lt;/h1&gt;
     &lt;p&gt;40323236&lt;/p&gt;		
 &lt;/section&gt;
-	</t>
+	
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+</t>
 <t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;課程規劃&lt;/h1&gt;
     &lt;p&gt;教科書&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
 &lt;/section&gt;
-				</t>
+				
+</t>
 <t tx="ibm.20150918175403.9">&lt;section&gt;
     &lt;h1&gt;作業規劃&lt;/h1&gt;
     &lt;p&gt;影片內容&lt;/p&gt;
     &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
 &lt;/section&gt;
-				</t>
+				
+</t>
 <t tx="ibm.20150918175711.1">&lt;section&gt;
     &lt;h1&gt;Git 操作&lt;/h1&gt;
     &lt;p&gt;git clone&lt;/p&gt;
@@ -2233,17 +3156,9 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;git add -A&lt;/p&gt;
     &lt;p&gt;git commit -m&lt;/p&gt;
     &lt;p&gt;git push&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="ibm.20150918175951.1">&lt;section&gt;
-    &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
-    &lt;p&gt;啟動&lt;/p&gt;
-    &lt;p&gt;基本執行&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="ibm.20150918181528.1">&lt;section&gt;
-    &lt;h1&gt;結論&lt;/h1&gt;
-    &lt;p&gt;自主開放學習&lt;/p&gt;
-    &lt;p&gt;線上教材&lt;/p&gt;
-    &lt;p&gt;影音教材&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
+<t tx="ibm.20150918175951.1"></t>
+<t tx="ibm.20150918181528.1"></t>
 </tnodes>
 </leo_file>
